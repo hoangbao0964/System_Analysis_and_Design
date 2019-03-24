@@ -1,0 +1,11 @@
+c:\users\demon\documents\visual studio 2013\Projects\TOURNAMENT_MANAGER\TOURNAMENT_MANAGER\bin\Debug\TOURNAMENT_MANAGER.exe.config
+c:\users\demon\documents\visual studio 2013\Projects\TOURNAMENT_MANAGER\TOURNAMENT_MANAGER\obj\Debug\TOURNAMENT_MANAGER.csprojResolveAssemblyReference.cache
+c:\users\demon\documents\visual studio 2013\Projects\TOURNAMENT_MANAGER\TOURNAMENT_MANAGER\obj\Debug\TOURNAMENT_MANAGER.Properties.Resources.resources
+c:\users\demon\documents\visual studio 2013\Projects\TOURNAMENT_MANAGER\TOURNAMENT_MANAGER\obj\Debug\TOURNAMENT_MANAGER.ThongTin.resources
+c:\users\demon\documents\visual studio 2013\Projects\TOURNAMENT_MANAGER\TOURNAMENT_MANAGER\obj\Debug\TOURNAMENT_MANAGER.ĐangKy.resources
+c:\users\demon\documents\visual studio 2013\Projects\TOURNAMENT_MANAGER\TOURNAMENT_MANAGER\obj\Debug\TOURNAMENT_MANAGER.csproj.GenerateResource.Cache
+c:\users\demon\documents\visual studio 2013\Projects\TOURNAMENT_MANAGER\TOURNAMENT_MANAGER\bin\Debug\TOURNAMENT_MANAGER.exe
+c:\users\demon\documents\visual studio 2013\Projects\TOURNAMENT_MANAGER\TOURNAMENT_MANAGER\bin\Debug\TOURNAMENT_MANAGER.pdb
+c:\users\demon\documents\visual studio 2013\Projects\TOURNAMENT_MANAGER\TOURNAMENT_MANAGER\obj\Debug\TOURNAMENT_MANAGER.exe
+c:\users\demon\documents\visual studio 2013\Projects\TOURNAMENT_MANAGER\TOURNAMENT_MANAGER\obj\Debug\TOURNAMENT_MANAGER.pdb
+c:\users\demon\documents\visual studio 2013\Projects\TOURNAMENT_MANAGER\TOURNAMENT_MANAGER\obj\Debug\TOURNAMENT_MANAGER.DangNhap.resources

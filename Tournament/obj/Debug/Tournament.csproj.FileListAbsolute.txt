@@ -1,0 +1,70 @@
+c:\users\demon\documents\visual studio 2013\Projects\TOURNAMENT_MANAGER\Tournament\bin\Debug\Tournament.exe.config
+c:\users\demon\documents\visual studio 2013\Projects\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.DangKy.resources
+c:\users\demon\documents\visual studio 2013\Projects\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.Properties.Resources.resources
+c:\users\demon\documents\visual studio 2013\Projects\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.csproj.GenerateResource.Cache
+c:\users\demon\documents\visual studio 2013\Projects\TOURNAMENT_MANAGER\Tournament\bin\Debug\Tournament.exe
+c:\users\demon\documents\visual studio 2013\Projects\TOURNAMENT_MANAGER\Tournament\bin\Debug\Tournament.pdb
+c:\users\demon\documents\visual studio 2013\Projects\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.exe
+c:\users\demon\documents\visual studio 2013\Projects\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.pdb
+c:\users\demon\documents\visual studio 2013\Projects\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.Start.resources
+c:\users\demon\documents\visual studio 2013\Projects\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.QuanLy.resources
+C:\Users\Demon\Documents\visual studio 2013\Projects\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.csprojResolveAssemblyReference.cache
+C:\Users\Demon\Documents\visual studio 2013\Projects\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.BangThiDau.resources
+C:\Users\Demon\Documents\visual studio 2013\Projects\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.BangThiDau2.resources
+C:\Users\Demon\Documents\visual studio 2013\Projects\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.BangThiDau3.resources
+C:\Users\Demon\Documents\visual studio 2013\Projects\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.ThemDoi.resources
+C:\Users\Demon\Documents\visual studio 2013\Projects\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.ThongTin.resources
+C:\Users\HOME\Downloads\TOURNAMENT_MANAGER\Tournament\bin\Debug\Tournament.exe.config
+C:\Users\HOME\Downloads\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.exe
+C:\Users\HOME\Downloads\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.pdb
+C:\Users\HOME\Downloads\TOURNAMENT_MANAGER\Tournament\bin\Debug\Tournament.exe
+C:\Users\HOME\Downloads\TOURNAMENT_MANAGER\Tournament\bin\Debug\Tournament.pdb
+C:\Users\HOME\Downloads\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.csprojResolveAssemblyReference.cache
+C:\Users\HOME\Downloads\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.BangThiDau.resources
+C:\Users\HOME\Downloads\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.BangThiDau2.resources
+C:\Users\HOME\Downloads\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.BangThiDau3.resources
+C:\Users\HOME\Downloads\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.DangKy.resources
+C:\Users\HOME\Downloads\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.QuanLy.resources
+C:\Users\HOME\Downloads\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.Start.resources
+C:\Users\HOME\Downloads\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.Properties.Resources.resources
+C:\Users\HOME\Downloads\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.ThemDoi.resources
+C:\Users\HOME\Downloads\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.ThongTin.resources
+C:\Users\HOME\Downloads\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.csproj.GenerateResource.Cache
+C:\Users\HOME\Downloads\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.CapNhap.resources
+C:\Users\Demon\Desktop\TOURNAMENT_MANAGER445\Tournament\bin\Debug\Tournament.exe.config
+C:\Users\Demon\Desktop\TOURNAMENT_MANAGER445\Tournament\obj\Debug\Tournament.exe
+C:\Users\Demon\Desktop\TOURNAMENT_MANAGER445\Tournament\obj\Debug\Tournament.pdb
+C:\Users\Demon\Desktop\TOURNAMENT_MANAGER445\Tournament\bin\Debug\Tournament.exe
+C:\Users\Demon\Desktop\TOURNAMENT_MANAGER445\Tournament\bin\Debug\Tournament.pdb
+C:\Users\Demon\Desktop\TOURNAMENT_MANAGER445\Tournament\obj\Debug\Tournament.csprojResolveAssemblyReference.cache
+C:\Users\Demon\Desktop\TOURNAMENT_MANAGER445\Tournament\obj\Debug\Tournament.BangThiDau.resources
+C:\Users\Demon\Desktop\TOURNAMENT_MANAGER445\Tournament\obj\Debug\Tournament.BangThiDau2.resources
+C:\Users\Demon\Desktop\TOURNAMENT_MANAGER445\Tournament\obj\Debug\Tournament.BangThiDau3.resources
+C:\Users\Demon\Desktop\TOURNAMENT_MANAGER445\Tournament\obj\Debug\Tournament.DangKy.resources
+C:\Users\Demon\Desktop\TOURNAMENT_MANAGER445\Tournament\obj\Debug\Tournament.QuanLy.resources
+C:\Users\Demon\Desktop\TOURNAMENT_MANAGER445\Tournament\obj\Debug\Tournament.Start.resources
+C:\Users\Demon\Desktop\TOURNAMENT_MANAGER445\Tournament\obj\Debug\Tournament.Properties.Resources.resources
+C:\Users\Demon\Desktop\TOURNAMENT_MANAGER445\Tournament\obj\Debug\Tournament.ThemDoi.resources
+C:\Users\Demon\Desktop\TOURNAMENT_MANAGER445\Tournament\obj\Debug\Tournament.ThongTin.resources
+C:\Users\Demon\Desktop\TOURNAMENT_MANAGER445\Tournament\obj\Debug\Tournament.csproj.GenerateResource.Cache
+C:\Users\Demon\Desktop\TOURNAMENT_MANAGER445\Tournament\obj\Debug\Tournament.Result.resources
+C:\Users\HOME\Desktop\TOURNAMENT_MANAGER445\Tournament\bin\Debug\Tournament.exe.config
+C:\Users\HOME\Desktop\TOURNAMENT_MANAGER445\Tournament\obj\Debug\Tournament.exe
+C:\Users\HOME\Desktop\TOURNAMENT_MANAGER445\Tournament\obj\Debug\Tournament.pdb
+D:\Sophomore\TOURNAMENT_MANAGER\Tournament\bin\Debug\Tournament.exe.config
+D:\Sophomore\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.exe
+D:\Sophomore\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.pdb
+D:\Sophomore\TOURNAMENT_MANAGER\Tournament\bin\Debug\Tournament.exe
+D:\Sophomore\TOURNAMENT_MANAGER\Tournament\bin\Debug\Tournament.pdb
+D:\Sophomore\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.csprojResolveAssemblyReference.cache
+D:\Sophomore\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.BangThiDau.resources
+D:\Sophomore\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.BangThiDau2.resources
+D:\Sophomore\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.BangThiDau3.resources
+D:\Sophomore\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.DangKy.resources
+D:\Sophomore\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.QuanLy.resources
+D:\Sophomore\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.Result.resources
+D:\Sophomore\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.Start.resources
+D:\Sophomore\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.Properties.Resources.resources
+D:\Sophomore\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.ThemDoi.resources
+D:\Sophomore\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.ThongTin.resources
+D:\Sophomore\TOURNAMENT_MANAGER\Tournament\obj\Debug\Tournament.csproj.GenerateResource.Cache
